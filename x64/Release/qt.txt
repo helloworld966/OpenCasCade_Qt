@@ -1,0 +1,1 @@
+Uic'ing OpenCasCade.ui...;D:\Qt5.14.2\5.14.2\msvc2017_64\bin\uic.exe;"C:\Users\admin\source\repos\OpenCasCade\OpenCasCade\OpenCasCade.ui" -o ".\GeneratedFiles\ui_OpenCasCade.h"
